@@ -40,6 +40,10 @@ I am currently working on a game project to facilitate a comprehensive understan
 - **Proficiency in Blueprints and C++**: Balancing visual scripting with traditional coding to build efficient and flexible game mechanics.
 - **Game Development Best Practices**: Understanding and applying industry-standard practices in game design, development, and optimization.
 
+## Showcase
+- Try out my first ever learning project, link given below:
+- https://drive.google.com/file/d/14geVhJd1sRPAX0h_Gn0P9h4utsCjqOu-/view?usp=sharing
+
 ## Future Plans
 
 I plan to continue expanding my skills in Unreal Engine by:
